@@ -105,6 +105,7 @@ public class SinglyLinkedList<T> {
      */
     public T removeFromBack() {
         //test
+        //test2
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
         if (size == 0) {
             throw new NoSuchElementException();
